@@ -5,7 +5,11 @@ Last change:
 Assigned to:  Bach Le
 Primary use:  
 -------------------------------------------------------------------*/
-
+#footerDiv {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
 /*//////////////////////////////////////////////////////////////////
 [ FONT ]*/
 
